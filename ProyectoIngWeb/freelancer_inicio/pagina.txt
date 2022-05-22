@@ -1,0 +1,80 @@
+Index.
+	Navegacion
+	Sección Anuncios
+		Cadena de Imagenes gigantes
+
+	Sección ¿Qué deseas comprar hoy?
+		3 sobre 3 Elementos {Nombre, Imagen, Texto, Precio} 
+		Efecto de oscurecimiento o agrandamiento
+
+	Sección Promociones Especiales / Recomendados
+		Tira de 6 Elementos {Nombre, Imagen, Texto, Precio} 
+		
+
+	Sección Servicio al Cliente | Acerca de Nosotros | Redes Sociales 
+		2 LOREM|	3 LOREM|	FACE LOREM, INSTA LOREM, YOU LOREM
+
+Loggin.
+	Nombre
+	Telefono
+	Correo
+	Contraseña
+	Confirmar Contraseña
+	Input de Enviar
+Sign in
+	Correo
+	Contraseña
+	No tienes seesion -> Loggin
+	
+
+Usuario.
+	Nombre
+	Teléfono
+	Correo
+	Foto
+	Cerrar Sesión
+
+Administrador
+	Registra Administradores
+	Modifica los productos recomendados
+	Anuncios
+	Agregar y Modificar y Eliminar los productos y sus atributos
+
+Categoria.
+	Catalogo de productos.
+	{Nombre, Imagen, Texto,Precio} 
+	Efecto de oscurecimiento o agrandamiento
+
+Prodcuto.
+	{Nombre, Imagen, Texto,Precio, Cantidad Disponible} 
+	Efecto de oscurecimiento o agrandamiento
+	Cantidad, Agregar a Carrito
+
+Carrito.
+	Tabla
+	{Nombre, Precio, Cantidad Seleccionada, Subtotal} 
+	Cantidad, Agregar a Carrito
+
+
+Admin.
+	
+
+	
+	
+
+
+
+Categoria de Productos
+	Higiene y Belleza
+	Limpieza del Hogar
+	Familia
+	Tecnología
+	Deportes
+<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user-circle" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#2c3e50" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <circle cx="12" cy="12" r="9" />
+  <circle cx="12" cy="10" r="3" />
+  <path d="M6.168 18.849a4 4 0 0 1 3.832 -2.849h4a4 4 0 0 1 3.834 2.855" />
+</svg>
+
+america.montano535@gmail.com
